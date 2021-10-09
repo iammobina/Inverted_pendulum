@@ -1,6 +1,6 @@
 #  Inverted Pendulum
 
-In this project, a fuzzy controller was designed in order to solve the inverted pendulum problem. Our pendulum is located on a cart consists of a mass M at the top of a rod of length l pivoted on a horizontally moving base. The rod is considered massless and is carrying a mass m.
+In this project, a fuzzy controller was designed in order to solve the inverted pendulum problem. pendulum is located on a cart consists of a mass M at the top of a rod of length l pivoted on a horizontally moving base. The rod is considered massless and is carrying a mass m.
 
  For implementing the fuzzy controller, the code is written in inverted_pendulum.fcl file which is a Fuzzy Control Language file. 
 
